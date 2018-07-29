@@ -1,12 +1,5 @@
 # McKinsey-Analytics-Hackathon-2018
 
----
-title: "McKinsey Analytics Hackthon"
-author: "Jiaying Wu"
-date: "7/20/2018"
-output: pdf_document
----
-
 # Step 1: Load, normalize, clean the data and split for modeling
 
 # Load the McKinsey data and replace missing values with NA
