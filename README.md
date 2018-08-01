@@ -38,7 +38,7 @@ mk_train$premium=scale(mk_train$premium)[, 1]
 summary(mk_train)
 ```
 
-# Normalize the McKinsey test data
+# Normalize the test data
 ```{r}
 mk_test$perc_premium_paid_by_cash_credit <- scale(mk_test$perc_premium_paid_by_cash_credit)[, 1]
 mk_test$age_in_days <- scale(mk_test$age_in_days)[, 1]
